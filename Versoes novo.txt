@@ -1,0 +1,13 @@
+Imagem de identificação do GIT HUB
+
++---[RSA 4096]----+
+| o....+o         |
+|. . .ooo*        |
+|   .. += *   ..  |
+|     o o..+   oE.|
+|    . o S  . .+*o|
+|     o +  . o BoO|
+|      o    o =.*=|
+|            + + +|
+|           .   o.|
++----[SHA256]-----+
